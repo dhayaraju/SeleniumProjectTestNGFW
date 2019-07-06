@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="251116" started-at="2019-06-26T08:51:20Z" finished-at="2019-06-26T08:55:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="251116" started-at="2019-06-26T08:51:20Z" finished-at="2019-06-26T08:55:32Z">
+      <class name="tests.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.NewTest@15383681]" name="beforeTest" is-config="true" duration-ms="18378" started-at="2019-06-26T08:51:21Z" finished-at="2019-06-26T08:51:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Sign_In()[pri:2, instance:tests.NewTest@15383681]" name="Sign_In" duration-ms="8137" started-at="2019-06-26T08:51:39Z" finished-at="2019-06-26T08:51:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sign_In -->
+        <test-method status="PASS" signature="Bus_Ticket_Booking()[pri:3, instance:tests.NewTest@15383681]" name="Bus_Ticket_Booking" duration-ms="222218" started-at="2019-06-26T08:51:47Z" finished-at="2019-06-26T08:55:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bus_Ticket_Booking -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.NewTest@15383681]" name="afterTest" is-config="true" duration-ms="2158" started-at="2019-06-26T08:55:29Z" finished-at="2019-06-26T08:55:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
